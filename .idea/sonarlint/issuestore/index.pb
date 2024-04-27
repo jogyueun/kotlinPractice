@@ -19,3 +19,5 @@ B
 src/arrayList.kt,d\8\d85e6edfa71b4b0312b09c8c22adeeb9770a8850
 >
 src/mapData.kt,d\d\dd67578b37bf350a97cefb64db2ac3d91bd35cf4
+A
+src/nullSafety.kt,5\e\5e2df3281c5a41eb5c13672324e242c0abff1b41
