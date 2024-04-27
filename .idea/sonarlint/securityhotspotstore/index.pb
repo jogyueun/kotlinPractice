@@ -13,3 +13,7 @@ B
 src/stringVar.kt,6\c\6c551485c441ceb5f8b2f800ba98442aedb41499
 >
 src/boolVar.kt,e\7\e709087b3dc963351821a9dcdcd0dda52e2dbd45
+?
+src/arrayVar.kt,7\8\78fe408cb4761cf78c6387d376bbf1c98b86fc1b
+@
+src/arrayList.kt,d\8\d85e6edfa71b4b0312b09c8c22adeeb9770a8850
