@@ -23,3 +23,5 @@ A
 src/nullSafety.kt,5\e\5e2df3281c5a41eb5c13672324e242c0abff1b41
 =
 src/ifelse.kt,2\f\2f6607cf0c1aca3f43aaa5a1f911035853306ede
+;
+src/loop.kt,e\e\ee322f55d0f9f2e0a565f248b8a5defbf72b3893
