@@ -9,3 +9,5 @@ B
 src/variable.kt,e\7\e7cc74eab798c7f84b67285f3137a1487d99c0fc
 @
 src/numberVar.kt,b\8\b83c641e66173e501da13e720096f8f1e2ab2555
+@
+src/stringVar.kt,6\c\6c551485c441ceb5f8b2f800ba98442aedb41499
