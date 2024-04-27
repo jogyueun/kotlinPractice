@@ -11,3 +11,5 @@ B
 src/numberVar.kt,b\8\b83c641e66173e501da13e720096f8f1e2ab2555
 @
 src/stringVar.kt,6\c\6c551485c441ceb5f8b2f800ba98442aedb41499
+>
+src/boolVar.kt,e\7\e709087b3dc963351821a9dcdcd0dda52e2dbd45
