@@ -1,6 +1,4 @@
 
-;
-src/Main.kt,8\3\831e098b3d5e6d6ee3add3ecfc91ae1ff24b123e
 B
 src/hello_world.kt,0\1\01f167387d71d5d979d6411a24d120138538918a
 ?
@@ -13,8 +11,6 @@ B
 src/stringVar.kt,6\c\6c551485c441ceb5f8b2f800ba98442aedb41499
 >
 src/boolVar.kt,e\7\e709087b3dc963351821a9dcdcd0dda52e2dbd45
-?
-src/arrayVar.kt,7\8\78fe408cb4761cf78c6387d376bbf1c98b86fc1b
 @
 src/arrayList.kt,d\8\d85e6edfa71b4b0312b09c8c22adeeb9770a8850
 >
@@ -29,3 +25,5 @@ A
 src/oper.kt,7\1\71f0ab42cb575f58f12c7dcdbd1288775e818c9e
 ?
 src/function.kt,7\9\7902dff1eec875a52c6cd9968cd75b71a44ca401
+?
+src/instance.kt,6\c\6c38d88060caf22563f3fa025193f00601faca79
