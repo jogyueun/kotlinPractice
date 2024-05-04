@@ -27,3 +27,5 @@ A
 src/function.kt,7\9\7902dff1eec875a52c6cd9968cd75b71a44ca401
 ?
 src/instance.kt,6\c\6c38d88060caf22563f3fa025193f00601faca79
+@
+src/Interface.kt,e\6\e640df00642af96eba7b5e2ff2618aa5716b2c11
